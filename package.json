@@ -1,0 +1,29 @@
+{
+  "name": "Gist_cli",
+  "description": "A gist cli client written in Node",
+  "version": "0.2.3",
+  "bin": {
+    "gist": "gist.js"
+  },
+  "dependencies": {
+    "ini": "1.1",
+    "opener": "1.3",
+    "read": "1.0 >=1.0.4",
+    "osenv": "0"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/gist_cli"
+  },
+  "keywords": [
+    "gist",
+    "cli",
+    "command",
+    "line",
+    "client"
+  ],
+  "author": "",
+  "license": ""
+}
